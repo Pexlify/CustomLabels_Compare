@@ -1,0 +1,2 @@
+del custom_labels_compare.csv
+python custom_labels_compare_csv.py
